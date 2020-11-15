@@ -1,6 +1,6 @@
 # CoronaViewer
 
-Dashboard tool showing the development of corona in graphs.
+Dashboard tool showing the development of corona in graphs, in Python 3.8.
 
 Four graphs are shown:
 - country
